@@ -6,7 +6,7 @@
 
 ## 👋 Hey, I'm Noann
 
-I'm an 18-year-old engineering student in the preparatory cycle at [UTT](https://www.utt.fr) (Troyes, France), on my way to becoming an engineer. Passionate about AI, web development, and building things — bots, apps, tools — I'm at the beginning of my coding journey and I'm diving deep.
+I'm an 18-year-old engineering student in the preparatory cycle at [UTT](https://www.utt.fr) (Troyes, France), on my way to becoming an engineer. Passionate about AI, cybersecurity, web development, and building things — bots, apps, tools — I'm at the beginning of my coding journey and I'm diving deep.
 
 > *"The best way to learn is to build."*
 
