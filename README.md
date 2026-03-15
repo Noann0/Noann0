@@ -33,7 +33,7 @@ Right now I'm focused on learning by doing. Here's what I'm working with:
 - 🎓 Studying at **UTT** — targeting an engineering degree
 - 🤖 Deeply interested in **Artificial Intelligence** — how it works, what it can do, where it's going
 - 🛠️ Currently building my first projects: **web apps**, **Discord/Telegram bots**, and **automation tools**
-- ⛵ Member of **[Néréides](https://www.linkedin.com/company/n%C3%A9r%C3%A9ides-utt/posts/?feedView=all)** — a team competing in the [Monaco Energy Boat Challenge](https://www.energyboatchallenge.com/) (Partnership Pole)
+- ⛵ Member of **[Néréides](https://www.linkedin.com/company/n%C3%A9r%C3%A9ides-utt/)** — a team competing in the [Monaco Energy Boat Challenge](https://www.energyboatchallenge.com/) (Partnership Pole)
 - 📐 Coming from a strong maths & physics background (Bac mention très bien)
 - 🌱 Every project I start here is part of how I learn
 
