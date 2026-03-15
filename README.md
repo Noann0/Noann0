@@ -43,8 +43,7 @@ Right now I'm focused on learning by doing. Here's what I'm working with:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Noann0&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noann0&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
 
 </div>
 
