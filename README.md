@@ -6,11 +6,13 @@
 
 ## Hey, I'm Noann
 
-I'm in my third semester of engineering studies at [UTT](https://www.utt.fr) in Troyes, France. I build software products, explore AI and am interested in cybersecurity.
+I'm in my third semester of engineering studies at [UTT](https://www.utt.fr) in Troyes, France. I build software products and use AI extensively, both in product features and throughout my development workflow. I'm also interested in cybersecurity.
 
 ## What I'm building
 
 - **[PerfDesk](https://perfdesk.app):** a swimming training app for athletes and clubs. I develop the interface, backend and deployment, using Next.js, FastAPI and PostgreSQL.
+- **Prisme:** a personal dashboard for understanding the money and time behind my activities, starting with resale.
+- **ATLAS:** a Python and Freqtrade project for researching and backtesting crypto swing strategies. Paper trading comes before any live use.
 - **[Budget tracker template](https://github.com/Noann0/suivi-budget-template):** a public TypeScript starter for tracking personal finances.
 - **[Investment simulator](https://github.com/Noann0/Simulateur-investissment):** a JavaScript project for comparing investment scenarios.
 
